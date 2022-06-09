@@ -1,0 +1,5 @@
+Class name: LP1
+Number of Students: 3
+Joao Miranda, 1, 15.4
+Joana Correia, 3, 18.1
+Pedro Pereira, 2, 12.6

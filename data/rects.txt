@@ -1,0 +1,11 @@
+rectangles: 10
+rect 0: 0 0 1 1
+rect 1: 1 1 2 2
+rect 2: 0 0 0 0
+rect 3: 0 0 0 0
+rect 4: 0 0 0 0
+rect 5: 0 0 0 0
+rect 6: 0 0 0 0
+rect 7: 0 0 0 0
+rect 8: 0 0 0 0
+rect 9: 0 0 0 0
